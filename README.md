@@ -45,6 +45,7 @@ I'm always open to new opportunities, collaborations, and conversations. If you'
 - 📧 Email: [sahukartik26@gmail.com](mailto:sahukartik26@gmail.com) 
 - 💼 LinkedIn: [Kartik-sahu-dev](https://www.linkedin.com/in/kartik-sahu-dev/)
 - 🐦 Twitter: [@kartiktwts](https://x.com/kartiktwts)
+- 🧑‍💻 LeetCode: [Kartik-sahu-dev](https://leetcode.com/u/kartik-sahu-dev/)
 
 Feel free to drop me a message or connect with me on any of these platforms. I'm looking forward to meeting you!
 
