@@ -14,8 +14,11 @@ Hello, world! 👋 I'm Kartik Sahu, and I'm delighted to welcome you to my GitHu
 
 I'm passionate about a variety of technologies, and some of my favorite programming languages and tools include:
 
-- 🌐 HTML/CSS
-- ☕️ Java
+- 🌐 **HTML, CSS, JavaScript**  
+- ☕️ **Java**  
+- 🖥️ **SpringBoot, Hibernate, Thymeleaf**  
+- 📧 **JavaMail**  
+- 🗃️ **MySQL**
 
 ## Work Experience
 
